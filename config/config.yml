@@ -1,0 +1,10 @@
+{
+    "MongoDBConnection":{
+        "ConnectionString": "mongodb://localhost:27017"
+    },
+    "KeyCloakSettings":{
+        "DiscoveryUrl": "http://localhost:8080/realms/RoyalRangerEventManager",
+        "ClientId": "RREM-API",
+        "ClientSecret": "V9ySKnoKAQjCcwZ6BUjdCcAzTz46zd8j"
+    }
+}
