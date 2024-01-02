@@ -2,8 +2,6 @@ module github.com/ChaosTh3ori3/RangerEventManager.Api
 
 go 1.21
 
-toolchain go1.21.4
-
 require (
 	github.com/PuerkitoBio/purell v1.2.1 // indirect
 	github.com/armon/go-proxyproto v0.1.0 // indirect
